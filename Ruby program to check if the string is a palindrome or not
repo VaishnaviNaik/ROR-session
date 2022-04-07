@@ -1,0 +1,10 @@
+//check if the string is a palindrome or not using reverse function
+
+string = get.chomp()
+
+if string == string.reverse()
+  puts "String is a pallindrome"
+else
+  puts "String is not a pallindrome"
+  
+ 
