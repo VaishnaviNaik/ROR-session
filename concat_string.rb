@@ -15,4 +15,6 @@ a = "My name is"
 b = ", "
 c = "Vaishnavi"
 puts (a + b + c)
+
+puts "I like" + " " + "chocolate"
  
