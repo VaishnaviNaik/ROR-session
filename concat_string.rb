@@ -1,11 +1,11 @@
 
 #with concat method
 
-str = "Hello"
+str1 = "Hello"
    
-str.concat("World")
+str1.concat("World")
    
-puts str
+puts str1
 
 #Without method
 
