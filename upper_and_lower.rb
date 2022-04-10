@@ -1,7 +1,7 @@
 #Upper case
-name = 'vaishnavi'
-puts name.upcase     
+name1 = 'vaishnavi'
+puts name1.upcase     
 
 #lower case 
-name = 'VAISHNAVI'
-puts name.downcase
+name2 = 'VAISHNAVI'
+puts name2.downcase
